@@ -1,0 +1,136 @@
+﻿@using AsapEntities;
+@{
+    //ViewBag.Title = "VuelosTripulacion";
+    List<Empleado> ListadoTripulacion = (List<Empleado>)ViewBag.ListadoTripulacion;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+    <style>
+        body {
+    background-color: #006666;
+   
+}
+        divtablatriptec{
+    background-color: #ffffff;
+    color: #99ffff;
+   
+}
+
+    </style>
+</head>
+<body>
+    <h1>VuelosTripulacion</h1>
+    <div class="container">
+        
+        <h2>Colaboradores del Personal Técnico:</h2>
+        <table class="table table-hover" id="divtablatriptec">
+            <thead>
+                <tr>
+                    
+                    <th>Apellido</th>
+                    <th>Nombre</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Empleado item in ListadoTripulacion)
+                {
+                    <tr>
+                        <th>@item.Nombre_emp</th>
+                        <th>@item.Apellidos_emp</th>
+                        <th>@item.estado</th>
+                    </tr>
+                }
+
+                @*<tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>john@example.com</td>
+                </tr>
+                <tr>
+                    <td>Mary</td>
+                    <td>Moe</td>
+                    <td>mary@example.com</td>
+                </tr>
+                <tr>
+                    <td>July</td>
+                    <td>Dooley</td>
+                    <td>july@example.com</td>
+                </tr>*@
+
+
+            </tbody>
+        </table>
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <table class="table table-hover" id="divtablatriptec">
+            <thead>
+                <tr>
+
+                    <th>Apellido</th>
+                    <th>Nombre</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Empleado item in ListadoTripulacion)
+                {
+                    <tr>
+                        <th>@item.Nombre_emp</th>
+                        <th>@item.Apellidos_emp</th>
+                        <th>@item.estado</th>
+                    </tr>
+                }
+
+                @*<tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>john@example.com</td>
+                </tr>
+                <tr>
+                    <td>Mary</td>
+                    <td>Moe</td>
+                    <td>mary@example.com</td>
+                </tr>
+                <tr>
+                    <td>July</td>
+                    <td>Dooley</td>
+                    <td>july@example.com</td>
+                </tr>*@
+            </tbody>
+        </table>
+    </div>
+
+    
+
+
+    @***@
+
+    <div class="container">
+        <h2>Personal Técnico</h2>   
+        <div class="alert alert-secondary alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            <strong>Secondary!</strong> Indicates a slightly less important action.
+        </div>
+       
+    </div>
+
+</body>
+</html>
+
+

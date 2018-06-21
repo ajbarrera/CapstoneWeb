@@ -1,0 +1,112 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\ApplicationInsights.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\csc.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\vbc.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.dll.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\AsapEntities.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\BusLogic.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Web.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Helpers.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Mvc.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Razor.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\DataAcces.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\AsapEntities.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\BusLogic.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Web.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Razor.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Helpers.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Mvc.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\bin\DataAcces.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\ApplicationInsights.config
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\csc.exe
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\vbc.exe
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\VBCSCompiler.exe
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.dll.config
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\MaquetaAsapX1.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\AsapEntities.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\BusLogic.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.SqlServer.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Web.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Helpers.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Mvc.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Razor.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Razor.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\DataAcces.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\AsapEntities.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\BusLogic.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\EntityFramework.SqlServer.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.Web.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Razor.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Webpages.Razor.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Helpers.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\System.Web.Mvc.xml
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\bin\DataAcces.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.csprojResolveAssemblyReference.cache
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.dll
+C:\Users\togno\Documents\MaquetaAsapX1\MaquetaAsapX1\obj\Debug\MaquetaAsapX1.pdb

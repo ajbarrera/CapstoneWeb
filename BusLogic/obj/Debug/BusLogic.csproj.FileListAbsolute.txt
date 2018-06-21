@@ -1,0 +1,22 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\BusLogic.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\BusLogic.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\AsapEntities.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\DataAcces.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\EntityFramework.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\AsapEntities.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\DataAcces.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\bin\Debug\EntityFramework.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\BusLogic.dll
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\BusLogic.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\AsapEntities.dll
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\DataAcces.dll
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\EntityFramework.dll
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\AsapEntities.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\DataAcces.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\bin\Debug\EntityFramework.xml
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.csprojResolveAssemblyReference.cache
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.dll
+C:\Users\togno\Documents\MaquetaAsapX1\BusLogic\obj\Debug\BusLogic.pdb

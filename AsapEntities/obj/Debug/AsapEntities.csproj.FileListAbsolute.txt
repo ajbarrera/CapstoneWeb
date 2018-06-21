@@ -1,0 +1,19 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.dll.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\obj\Debug\AsapEntities.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\MaquetaAsapX1\AsapEntities\obj\Debug\AsapEntities.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.dll.config
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.dll
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\AsapEntities.pdb
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.dll
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.xml
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\obj\Debug\AsapEntities.csprojResolveAssemblyReference.cache
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\obj\Debug\AsapEntities.dll
+C:\Users\togno\Documents\MaquetaAsapX1\AsapEntities\obj\Debug\AsapEntities.pdb
